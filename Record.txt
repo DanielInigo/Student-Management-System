@@ -1,0 +1,24 @@
+Student Name is : Dani
+Student Date of birth is : wds
+Stdent age is : eff
+Student Grade year is : ef
+Student Mobile number is : ef
+Student Gender is : Male
+Student Residential Status is : Hosteller
+
+Student Name is : hjshj
+Student Date of birth is : egrr
+Stdent age is : gr
+Student Grade year is : fe
+Student Mobile number is : f34
+Student Gender is : Male
+Student Residential Status is : Dayscholar
+
+Student Name is : Daniel
+Student Date of birth is : 3.1.2003
+Stdent age is : 19
+Student Grade year is : 3
+Student Mobile number is : 9345373277
+Student Gender is : Male
+Student Residential Status is : Hosteller
+
